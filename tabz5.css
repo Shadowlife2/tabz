@@ -19,7 +19,7 @@ body{
 	margin: 0px auto;
 }
 .menuapp {
-  border-top: 1px gray solid ;
+  border-top: 1px #212121 solid ;
   position: fixed;
   display: inline-block;
   width: 100%;
